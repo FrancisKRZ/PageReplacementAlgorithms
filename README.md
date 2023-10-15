@@ -98,17 +98,6 @@ References & Resources used:
         https://stackoverflow.com/questions/34091165/wsclock-algorithm-as-approximation
 
 
-Elaborations:
-
-    Nicole Ramirez adviced me to utilize indexes for the Optimal algorithm,
-    making it easier for saving the max / farthest index in the memory.
-    
-    Spoke with folks outside the University about a proper implementation about the WSClock
-
-
-
-
-
 
                         __
                      -=(o '.
